@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Aakash_GameOfLIfe_jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Aakash_GameOfLIfe_jar/Aakash_GameOfLife.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Aakash_GameOfLIfe_jar/GOL.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
